@@ -1,0 +1,3 @@
+ 查看变更 ： git diff
+git push  
+git pull
